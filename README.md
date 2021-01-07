@@ -32,4 +32,4 @@ You are to complete the following prompt(s) below.
 
 ## Prompt 3
 - Inside of `starShipFunctionComponent.js` located in `./src/components/functionComponents/starShip` , create a `Function Component` that contains a method which:
-  - 
+  - fd
